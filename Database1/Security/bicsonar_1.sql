@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [bicsonar]
+    WITH PASSWORD = N'9iuz>t&{y{fCbmyXwPihetolmsFT7_&#$!~<Sfp=weybyd6a', SID = 0xBB5AA481AAD8464688C541922A1BF3EA, DEFAULT_DATABASE = [bicsonar], DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+
